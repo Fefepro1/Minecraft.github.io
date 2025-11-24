@@ -1,2 +1,0 @@
-# Minecraft.github.io
-Legal
